@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="Informar_salario">Informar salario</string>
+    <string name="salario">Salario</string>
+</resources>
